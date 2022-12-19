@@ -1,7 +1,8 @@
 <body>
   <header>
-    <h1>CMD MIDTERM</h1>
+    <h1 class="logo">CMD MIDTERM</h1>
     <nav class="navigation">
+      <a href="" class="">Beoogde leerresultaten</a>
       <a href="" class="">Onderwijsleeromgeving</a>
       <a href="" class="">Toetsing</a>
       <a href="" class="">Gerealiseerde leerresultaten</a>
@@ -149,19 +150,22 @@
     width: auto;
   }
 
+  .logo {
+    color: black;
+  }
   h1 {
     top: 0%;
     position: sticky;
     box-shadow: inset 0 0 0 0 #ffffff;
-    color: black;
+    color: white;
     margin: 0 -0.25rem;
     padding: 0 0.25rem;
     transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
   }
 
   h1:hover {
-    box-shadow: inset 100px 0 0 0 yellow;
-    color: white;
+    box-shadow: inset 2000px 0 0 0 yellow;
+    color: black;
   }
 
   #hero-section {
@@ -191,7 +195,6 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    padding: 3rem;
     gap: 1rem;
     /* display: grid;
     grid-template-columns: 40em 30em;

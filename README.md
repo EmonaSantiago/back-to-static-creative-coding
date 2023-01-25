@@ -1,6 +1,6 @@
 # CREATIVE CODING 🎨👩🏻‍💻
 
-Voor de opdracht heb ik 3 verschillende onderwerpen gekregen. Namelijk:
+Voor de opdracht heb ik 3 verschillende onderwerpen aangeboden gekregen. Namelijk:
 * 🟣 POP-ART
 * 🟢 Scroll animation
 * 🔴 Bubble gum

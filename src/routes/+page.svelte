@@ -1,3 +1,7 @@
+<script>
+  
+</script>
+
 <body>
   <header>
     <h1 class="logo">CMD MIDTERM</h1>
